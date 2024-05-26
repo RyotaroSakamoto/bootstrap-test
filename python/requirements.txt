@@ -2,3 +2,4 @@ Flask
 pandas
 PyPDF2
 gunicorn
+requests
